@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**WarningImHack3r/WarningImHack3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate software developer, enjoying coding in **TypeScript**, **Swift** and **Kotlin**. Take a look at my pinned repos!
 
-Here are some ideas to get you started:
+## 📬 Online presence
+- Twitter: [@probably_coding](https://twitter.com/probably_coding)
+- GitHub: [WarningImHack3r](https://github.com/WarningImHack3r)
+- Personal Gitea: [Gitea](https://git.rasp-al.com)
+- Portfolio: [antleth.fr](https://antleth.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+<span>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true" alt="Antoine's Most Used Languages" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Antoine's GitHub Stats" />
+  </picture>
+</span>
