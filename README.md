@@ -6,7 +6,7 @@ I'm a passionate software engineer enjoying coding in **TypeScript**, **Swift**,
 
 - Twitter: [@probably_coding](https://twitter.com/probably_coding)
 - GitHub: [WarningImHack3r](https://github.com/WarningImHack3r)
-- Personal Gitea: [Gitea](https://git.rasp-al.com)
+- Personal Git: [Forgejo](https://git.rasp-al.com)
 - Portfolio: [antleth.fr](https://antleth.fr)
 
 ## 📊 Stats
