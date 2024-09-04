@@ -1,6 +1,8 @@
 # Hello there! 👋
 
-I'm a passionate software engineer enjoying coding in **TypeScript**, **Swift**, **Go**, and **Kotlin**. Take a look at my pinned repos!
+[![wakatime](https://wakatime.com/badge/user/7115ac31-331a-4c74-8f9e-8d4b1c0bceab.svg?style=flat)](https://wakatime.com/@7115ac31-331a-4c74-8f9e-8d4b1c0bceab)
+
+I'm a passionate software engineer who enjoys coding in **Go**, **TypeScript/JavaScript** (Svelte), **Kotlin**, and **Swift**. Take a look at my (pinned) repos!
 
 ## 📬 Online presence
 
