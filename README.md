@@ -16,24 +16,24 @@ I'm a passionate software engineer who enjoys coding in **Go**, **TypeScript/Jav
 <div align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true" alt="Antoine's Most Used Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WarningImHack3r&layout=compact&hide_border=true" alt="Antoine's Most Used Languages" />
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Antoine's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=WarningImHack3r&hide_title=true&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Antoine's GitHub Stats" />
   </picture>
 </div>
