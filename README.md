@@ -7,8 +7,8 @@ I'm a passionate software engineer who enjoys coding in **Go**, **TypeScript/Jav
 ## 📬 Online presence
 
 - Twitter: [@probably_coding](https://twitter.com/probably_coding)
-- GitHub: [WarningImHack3r](https://github.com/WarningImHack3r)
-- Personal Git: [Forgejo](https://git.rasp-al.com)
+- Bluesky: [@antleth.fr](https://bsky.app/profile/antleth.fr)
+- Personal Git: [Forgejo](https://git.antleth.cloud)
 - Portfolio: [antleth.fr](https://antleth.fr)
 
 ## 📊 Stats
